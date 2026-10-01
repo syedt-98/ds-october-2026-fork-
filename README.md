@@ -1,6 +1,8 @@
 # Data Science & Agentic AI Programme
 this is Syed taha
 
+this is main branch
+
 An 8-week programme from machine learning to multi-agent AI, with a Week 0 onboarding sprint.
 
 - **Repository:** <https://github.com/samuelts96/ds-october-2026>
